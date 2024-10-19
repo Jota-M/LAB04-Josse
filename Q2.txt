@@ -1,0 +1,6 @@
+
+Se usa para crear un archivo package.json en tu proyecto de Node.js. 
+Este archivo es esencial para gestionar las dependencias, scripts, y configuraciones del proyecto
+
+El comando generará el archivo package.json con la información proporcionada y 
+lo almacenará en el directorio raíz del proyecto.
