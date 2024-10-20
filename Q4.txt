@@ -11,5 +11,5 @@ Facilita la organización de los cambios y la colaboración, ya que puedes combi
 
 —Usted recibió un ticket [SEM-005] y una vez terminado el trabajo usted decide crear una rama para un posterior PR. 
 ¿Qué nombre pondría a la rama al momento de crearla?
-    git checkout -b feature/SEM-005
+     feature/SEM-005
 
